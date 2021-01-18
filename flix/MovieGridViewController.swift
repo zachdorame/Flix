@@ -85,7 +85,6 @@ class MovieGridViewController: UIViewController, UICollectionViewDataSource, UIC
         let detailsViewController = segue.destination as! SuperheroViewController
         detailsViewController.movie = movie
         
-        // still need to deselect? not sure
     }
 
 

@@ -1,14 +1,14 @@
 //
-//  MoviePreviewViewController.swift
+//  SuperheroPreviewViewController.swift
 //  flix
 //
-//  Created by Zach Dorame-Barajas on 1/16/21.
+//  Created by Zach Dorame-Barajas on 1/17/21.
 //
 
 import UIKit
 import WebKit
 
-class MoviePreviewViewController: UIViewController {
+class SuperheroPreviewViewController: UIViewController {
 
     @IBOutlet weak var moviePreview: WKWebView!
     
